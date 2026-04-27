@@ -48,5 +48,5 @@ Audio generation
 ✅ Step 8: Save your dependencies
 
 Generate a list of all installed libraries so that anyone else can easily run your project with the same setup.
-
+Handling errors carefully 
 
