@@ -7,7 +7,7 @@ Create a new folder on your computer where all your project files will live. Thi
 
 ✅ Step 2: Set up a virtual environment
 
-Create a virtual environment for your project. This is like a separate workspace where all your project dependencies (libraries) will be installed without affecting your system.
+Create a virtual environment for your project. This is like a separate workspace where all your project dependencies (libraries) will be installed without affecting your system.we created a conda enviorement .
 
 ✅ Step 3: Activate the virtual environment
 
@@ -48,5 +48,5 @@ Audio generation
 ✅ Step 8: Save your dependencies
 
 Generate a list of all installed libraries so that anyone else can easily run your project with the same setup.
-
+Handling errors carefully 
 
